@@ -1,6 +1,6 @@
            h1{text-align: center;background-color: rgb(71, 91, 90);}
-        #meunome{font-family: Arial, Helvetica, sans-serif;text-align: center;font-size: 25px;}
-        #texto{font-family: sans-serif;}
+        #neymar{font-family: Arial, Helvetica, sans-serif;text-align: center;font-size: 25px;}
+        #descrição{font-family: sans-serif;}
         body{background-color: rgb(187, 187,191) ;padding: 3%;}
         em{color: rgb(71, 91, 90);}
         .uno{
@@ -23,7 +23,7 @@
       font-size: 12px;}
 
     div{
-    ;height: 200px;
+    height: 200px;
     }
     #foto{float: left; height: 180px;padding:10px ;background-color: rgb(71, 91, 90);}
     .falandoDeAmor{position: relative;color:black;top: 15%;}
